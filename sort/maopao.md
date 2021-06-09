@@ -4,7 +4,7 @@
 * 内层两两比较， 一圈过后，可确认一个最值。 比较次数为： 剩下未排序数个数 - 1，以此循环
 
 
-````
+````typescript
 function sortM<T>(arr: T[]):T[]{
   let i = arr.length - 1
   let temp

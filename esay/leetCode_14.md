@@ -3,7 +3,7 @@
 由题目可推导： 最长前缀长度不会超过数组中任意一个数据的长度
 
 故将第一个值依次与所有值的字符一一比较，取公共值
-````
+````typescript
 function findCommonPrefix1(strs: Array<string>):string {
   if (strs.length === 1) {
     return strs[0]
