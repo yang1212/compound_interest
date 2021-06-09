@@ -3,7 +3,7 @@
 
 * 采用递归方式，直到左右数组长度为1，利用contat将结果连接
 
-````
+````typescript
 function sortK<T>(arr: T[]):T[] {
   if (arr.length <= 1) { return arr }
   let tag = arr[Math.floor(arr.length / 2)]
