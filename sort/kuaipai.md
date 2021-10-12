@@ -3,6 +3,8 @@
 
 * 采用递归方式，直到左右数组长度为1，利用contat将结果连接
 
+* attention: 中间值的剔除，以及剔除后需存为临时变量
+
 ````typescript
 function sortK<T>(arr: T[]):T[] {
   if (arr.length <= 1) { return arr }
@@ -21,3 +23,7 @@ function sortK<T>(arr: T[]):T[] {
 }
 
 ````
+
+时间复杂度:
+
+空间复杂度:
