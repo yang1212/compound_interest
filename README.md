@@ -8,6 +8,16 @@
 
 * [【 SF 】遍历](https://github.com/yang1212/compound_interest/tree/main/traverse)
 
+* 【 SF 】链表
+
+* 【 SF 】动态规范
+
+* 【 SF 】分而治之
+
+* 【 SF 】贪心算法
+
 * [【 SF 】力扣easy](https://github.com/yang1212/compound_interest/tree/main/leetcode-esay)
+
+* 【 SF 】力扣middle
 
 
