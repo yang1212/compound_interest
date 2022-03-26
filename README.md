@@ -8,7 +8,7 @@
 
 * [【 SF 】遍历](https://github.com/yang1212/compound_interest/tree/main/5%E3%80%81%20%20%E9%81%8D%E5%8E%86)
 
-* 【 SF 】链表
+* [【 SF 】链表](https://github.com/yang1212/compound_interest/tree/main/4%E3%80%81%20%20%E9%93%BE%E8%A1%A8)
 
 * [【 SF 】动态规范](https://github.com/yang1212/compound_interest/tree/main/6%E3%80%81%20%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
