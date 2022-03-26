@@ -12,7 +12,7 @@
 
 * 【 SF 】动态规范
 
-* 【 SF 】分而治之(https://github.com/yang1212/compound_interest/tree/main/7%E3%80%81%20%20%E5%88%86%E8%80%8C%E6%B2%BB%E4%B9%8B)
+* [【 SF 】分而治之](https://github.com/yang1212/compound_interest/tree/main/7%E3%80%81%20%20%E5%88%86%E8%80%8C%E6%B2%BB%E4%B9%8B)
 
 * 【 SF 】贪心算法
 
