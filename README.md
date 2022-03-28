@@ -14,7 +14,7 @@
 
 * [【 SF 】分而治之](https://github.com/yang1212/compound_interest/tree/main/7%E3%80%81%20%20%E5%88%86%E8%80%8C%E6%B2%BB%E4%B9%8B)
 
-* 【 SF 】贪心算法
+* [【 SF 】贪心算法](https://github.com/yang1212/compound_interest/blob/main/8%E3%80%81%20%20%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md)
 
 * [【 SF 】力扣](https://github.com/yang1212/compound_interest/tree/main/leetcode-esay)
 
